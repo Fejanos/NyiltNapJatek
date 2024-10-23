@@ -1,0 +1,24 @@
+.alert{
+    max-width: 500px;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f7f7f7;
+    margin: 0;
+}
+.container{
+    max-width: 500px;
+}
+.game-container {
+    max-width: 500px;
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.result-message {
+    margin-top: 20px;
+}
